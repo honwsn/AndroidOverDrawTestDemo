@@ -9,3 +9,6 @@ demo to show android overdraw optimize. using cliprect & quickReject to optimize
 
 4.运行AndroidOverDrawTestDemo，打开优化开关 对比优化前后 绘制的OverDraw状况
 
+
+AndroidOverDrawTestDemo.mp4 是操作录制的视频。
+
